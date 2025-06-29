@@ -1,0 +1,16 @@
+beautifulsoup4==4.13.4
+chromadb==1.0.13
+langchain==0.3.26
+langchain-community==0.3.26
+langchain-text-splitters==0.3.8
+matplotlib==3.8.1
+numpy
+openpyxl
+pandas
+PyMuPDF
+requests
+scipy
+seaborn
+sentence-transformers==4.1.0
+torch==2.7.0
+tqdm
